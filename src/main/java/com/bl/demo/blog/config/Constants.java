@@ -1,0 +1,12 @@
+package com.bl.demo.blog.config;
+
+/**
+ * Application constants.
+ */
+public final class Constants {
+
+    public static final String SYSTEM_ACCOUNT = "system";
+
+    private Constants() {
+    }
+}
